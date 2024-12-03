@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... GIS
 - 📫 How to reach me ... @gris__uryuu
 - 😄 Pronouns: ... He/She  
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I´m Geographer
 
 <!---
 grisLemus/grisLemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
